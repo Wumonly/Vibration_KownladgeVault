@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "Template_moudle",
+      "path": "00Template/Template_moudle.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00Template/未命名.md"
+    },
+    {
+      "basename": "通用模板",
+      "path": "00Template/通用模板.md"
+    },
+    {
+      "basename": "空白模板",
+      "path": "00Template/空白模板.md"
+    },
+    {
+      "basename": "01-VSCode的使用",
+      "path": "00-前端工具/01-VSCode的使用.md"
+    },
+    {
+      "basename": "03-Others",
+      "path": "03-Others.md"
+    },
+    {
+      "basename": "02-WebAPI",
+      "path": "02-WebAPI.md"
+    },
+    {
+      "basename": "01-javascript基础",
+      "path": "01-javascript基础.md"
+    },
+    {
+      "basename": "01-javascript基础",
+      "path": "线代基础教程/01-javascript基础.md"
+    },
+    {
+      "basename": "&&11.01-callbacks-article",
+      "path": "线代基础教程/&&11.01-callbacks-article.md"
+    },
+    {
+      "basename": "05.10-解构赋值",
+      "path": "线代基础教程/05.10-解构赋值.md"
+    },
+    {
+      "basename": "浏览器中的 JavaScript 不能做什么？",
+      "path": "浏览器中的 JavaScript 不能做什么？.md"
+    },
+    {
+      "basename": "【长文慎入】通信十年—通信行业分析与跳槽之路",
+      "path": "【长文慎入】通信十年—通信行业分析与跳槽之路.md"
+    },
+    {
+      "basename": "animal-rabbit-extends",
+      "path": "media/animal-rabbit-extends.svg"
+    },
+    {
+      "basename": "04-如何让一个元素水平垂直居中？",
+      "path": "03-CSS进阶/04-如何让一个元素水平垂直居中？.md"
+    },
+    {
+      "basename": "02-CSS盒模型及BFC",
+      "path": "15.0-前端面试/02-CSS盒模型及BFC.md"
+    },
+    {
+      "basename": "02-CSS基础",
+      "path": "00_合并后的文件/02-CSS基础.md"
+    },
+    {
+      "basename": "02-CSS布局",
+      "path": "03-CSS进阶/02-CSS布局.md"
+    },
+    {
+      "basename": "02-CSS属性：背景属性",
+      "path": "02-CSS基础/02-CSS属性：背景属性.md"
+    },
+    {
+      "basename": "01-CSS属性：字体属性和文本属性",
+      "path": "02-CSS基础/01-CSS属性：字体属性和文本属性.md"
+    },
+    {
+      "basename": "01-CSS中的非布局样式",
+      "path": "03-CSS进阶/01-CSS中的非布局样式.md"
+    },
+    {
+      "basename": "03-网页设计和开发中，关于字体的常识",
+      "path": "03-CSS进阶/03-网页设计和开发中，关于字体的常识.md"
+    },
+    {
+      "basename": "08-CSS属性：定位属性",
+      "path": "02-CSS基础/08-CSS属性：定位属性.md"
+    },
+    {
+      "basename": "07-浮动",
+      "path": "02-CSS基础/07-浮动.md"
+    },
+    {
+      "basename": "06-CSS盒模型详解",
+      "path": "02-CSS基础/06-CSS盒模型详解.md"
+    },
+    {
+      "basename": "04-CSS选择器：伪类",
+      "path": "02-CSS基础/04-CSS选择器：伪类.md"
+    },
+    {
+      "basename": "03-CSS样式表和选择器",
+      "path": "02-CSS基础/03-CSS样式表和选择器.md"
+    },
+    {
+      "basename": "00-编程语言",
+      "path": "04-JavaScript基础/00-编程语言.md"
+    },
+    {
+      "basename": "02-变量",
+      "path": "04-JavaScript基础/02-变量.md"
+    },
+    {
+      "basename": "08-运算符",
+      "path": "04-JavaScript基础/08-运算符.md"
+    },
+    {
+      "basename": "07-typeof和数据类型转换",
+      "path": "04-JavaScript基础/07-typeof和数据类型转换.md"
+    },
+    {
+      "basename": "04-JavaScript基础",
+      "path": "00_合并后的文件/04-JavaScript基础.md"
+    },
+    {
+      "basename": "04-JavaScript基础",
+      "path": "00_合并后的文件/04-JavaScript基础.pdf"
+    },
+    {
+      "basename": "05-JavaScript基础：ES6语法",
+      "path": "00_合并后的文件/05-JavaScript基础：ES6语法.md"
+    },
+    {
+      "basename": "00-前端工具",
+      "path": "00_合并后的文件/00-前端工具.md"
+    },
+    {
+      "basename": "SublimeText在前端中的使用",
+      "path": "00-前端工具/SublimeText在前端中的使用.md"
+    },
+    {
+      "basename": "Mac安装和配置iTerm2",
+      "path": "00-前端工具/Mac安装和配置iTerm2.md"
+    },
+    {
+      "basename": "iTerm2+OhMyZsh+agnoster搭建",
+      "path": "00-前端工具/iTerm2+OhMyZsh+agnoster搭建.md"
+    },
+    {
+      "basename": "iconMoon",
+      "path": "00-前端工具/iconMoon.md"
+    },
+    {
+      "basename": "EmmetinVSCode",
+      "path": "00-前端工具/EmmetinVSCode.md"
+    },
+    {
+      "basename": "chrome浏览器",
+      "path": "00-前端工具/chrome浏览器.md"
+    },
+    {
+      "basename": "03-网络抓包和代理工具：Whistle",
+      "path": "00-前端工具/03-网络抓包和代理工具：Whistle.md"
+    },
+    {
+      "basename": "02-Git的使用",
+      "path": "00-前端工具/02-Git的使用.md"
+    },
+    {
+      "basename": "Atom在前端的使用",
+      "path": "00-前端工具/Atom在前端的使用.md"
+    },
+    {
+      "basename": "VSCode的使用积累",
+      "path": "00-前端工具/VSCode的使用积累.md"
+    },
+    {
+      "basename": "WebStorm的使用",
+      "path": "00-前端工具/WebStorm的使用.md"
+    },
+    {
+      "basename": "GitHub的使用",
+      "path": "00-前端工具/GitHub的使用.md"
+    },
+    {
+      "basename": "03-变量的数据类型：基本数据类型和引用数据类型",
+      "path": "04-JavaScript基础/03-变量的数据类型：基本数据类型和引用数据类型.md"
+    },
+    {
+      "basename": "01-JS简介",
+      "path": "04-JavaScript基础/01-JS简介.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

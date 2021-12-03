@@ -1,0 +1,16 @@
+/** Make code blocks wrap in preview mode too */
+.theme-dark code[class*="language-"], 
+.theme-dark pre[class*="language-"], 
+.theme-light code[class*="language-"], 
+.theme-light pre[class*="language-"] {
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+}
+
+
+.external-link{
+    word-break: break-all;
+}
+.token.tag{
+    background-color: #e2e2e2;
+}

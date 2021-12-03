@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "9418dbc235bbae6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b4194ac57d3f9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfbb336da516436e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2a9fd6fd52436dc",
+        "type": "tabs",
+        "dimension": 58.4,
+        "children": [
+          {
+            "id": "35786af040ee0e91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44859a78700fe37a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "309ebdecef32a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a28b0b414bad1f00",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ce92c1af8e6d93ea",
+        "type": "tabs",
+        "dimension": 41.6,
+        "children": [
+          {
+            "id": "c20afbe940742ae8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a23a52f8bf47a949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "232977fe2467a125",
+    "type": "split",
+    "children": [
+      {
+        "id": "050d7771d9bb93fa",
+        "type": "tabs",
+        "dimension": 45.9016393442623,
+        "children": [
+          {
+            "id": "b2601ed63c75f7a9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "未命名.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181628,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "5d6d9a508c70d948",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f56a2c19018248e3",
+        "type": "tabs",
+        "dimension": 54.09836065573771,
+        "children": [
+          {
+            "id": "658927b0afa85dd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2e05d26e5f70b83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "96b4194ac57d3f9d",
+  "lastOpenFiles": [
+    "未命名.md",
+    "00Template/testing.md",
+    "00Template/Template_moudle.md",
+    "00Template/未命名.md",
+    "00Template/通用模板.md",
+    "00Template/空白模板.md",
+    "00-前端工具/01-VSCode的使用.md",
+    "03-Others.md",
+    "02-WebAPI.md",
+    "01-javascript基础.md"
+  ]
+}
